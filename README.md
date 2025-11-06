@@ -1,6 +1,6 @@
 ## Hi there its Hassan! 👋
 
-### Languages and Tools I use 🤖
+### 🤖 Languages and Tools I use 
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
