@@ -1,5 +1,5 @@
 ## Hi there its Hassan! 👋
-
+Computer Science student & Builder
 ### 🤖 Languages and Tools I use 
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
